@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B8A37EFA-E122-4344-8D9C-9B07DC314110</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PointersDrill</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CDCC75AD98EFE89ACCA025C0F203B33E6F1D3E64</key>
+		<string>https://github.com/MikeReining/PointersDrill.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PointersDrill.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CDCC75AD98EFE89ACCA025C0F203B33E6F1D3E64</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MikeReining/PointersDrill.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CDCC75AD98EFE89ACCA025C0F203B33E6F1D3E64</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CDCC75AD98EFE89ACCA025C0F203B33E6F1D3E64</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PointersDrill</string>
+		</dict>
+	</array>
+</dict>
+</plist>
